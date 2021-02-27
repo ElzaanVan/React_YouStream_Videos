@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "Number 1 - test",
+      "id": 1
+    },
+    {
+      "title": "My stream",
+      "description": "Number 1 - test",
+      "id": 2
+    },
+    {
+      "title": "sadsa",
+      "description": "sadsads",
+      "userId": null,
+      "id": 4
+    },
+    {
+      "title": "dsadsa",
+      "description": "dsadsads",
+      "userId": "110178810452291882229",
+      "id": 5
+    }
+  ]
+}
